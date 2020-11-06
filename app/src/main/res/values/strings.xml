@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVC-sample</string>
+    <string name="show_vote_trump">VOTE TRUMP</string>
+    <string name="show_vote_biden">VOTE BIDEN</string>
+
+</resources>
